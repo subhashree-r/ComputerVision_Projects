@@ -1,6 +1,6 @@
 These are the assignments that was done as a part of Computer Vision Course last sem.
 The reports are attached in every folder giving a brief description of the project. All codes are in Matlab.
-For further details of the problem statement of these projects : https://filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa16/hw1.html
+
 
 1. EdgeDetection_HybridImgs-This project involves forming Hybrid Images and the implementation of Canny Edge Detection without inbuilt function.
 2. EpiPolarGeometry_Metrology_StructureFromMotion- This project is about finding the height of building from single view metrology, Predicting the motion of keypoints using optical flow
