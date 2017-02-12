@@ -1,0 +1,8 @@
+mode                test
+BSDS500_root        BSR/BSDS500/data
+nImages             50
+algResSavePath      result/slic
+algorithmCommand    [S, time, imgVis] = slic(I, K, 25);
+parameterset parametersetName slic_25   K 25 
+parameterset parametersetName slic_36   K 36 
+
